@@ -26,6 +26,5 @@ Librosa.
 
 
 
-Dataset:
 Data Set Reference : https://urbansounddataset.weebly.com/
 
