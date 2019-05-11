@@ -19,10 +19,10 @@ street music
 Tools Required
 Python 2.7 is used during development and following libraries are required to run the code provided in the notebook:
 
-Tensorflow
-Numpy
-Matplotlib
-Librosa
+Tensorflow,
+Numpy,
+Matplotlib,
+Librosa.
 
 
 
